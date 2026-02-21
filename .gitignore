@@ -1,0 +1,36 @@
+# BMAD
+_bmad/
+.claude/commands/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Build
+dist/
+build/
+out/
+.next/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime
+.cache/
+tmp/
